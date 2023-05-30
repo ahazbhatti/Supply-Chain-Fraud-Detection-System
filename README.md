@@ -1,1 +1,2 @@
 # Supply-Chain-Fraud-Detection-System
+	In this project we collect our data and then perform initial exploratory data analysis to determine the cleaning and preprocessing necessary. After we processed the data we took a hold out set of validation data to be used at the end of the modeling process. We then balanced the training and the test data using SMOTE before training and testing our models. We use the holdout set to validate the performance of the models to determine the best predictor.
